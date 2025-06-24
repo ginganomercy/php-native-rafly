@@ -40,9 +40,7 @@ Proyek ini merupakan aplikasi web **CRUD (Create, Read, Update, Delete)** sederh
 ---
 ## 📸 Screenshot
 
-![Tampilan Aplikasi[]([https://raw.githubusercontent.com/namamu/assets-repo/main/images/crud-preview.png](https://github.com/ginganomercy/For-Images-PHP/blob/8ea42d62903131a4c6f89f63ce7cae5860dae900/index-php.png](https://raw.githubusercontent.com/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/index-php.png
-)
-
+![Tampilan Aplikasi](https://raw.githubusercontent.com/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/index-php.png)
 ---
 
 ## 🛠️ Setup dan Instalasi
