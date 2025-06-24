@@ -28,7 +28,7 @@ Proyek ini merupakan aplikasi web **CRUD (Create, Read, Update, Delete)** sederh
 ├── index.php                 # Halaman utama (Read)
 ├── tambah.php                # Form tambah data
 ├── edit.php                  # Form edit data
-├── delete.php                # Soft delete data
+├── delete.php                # delete data
 │
 ├── index.css                 # Styling halaman index
 ├── tambah.css                # Styling halaman tambah
@@ -40,7 +40,18 @@ Proyek ini merupakan aplikasi web **CRUD (Create, Read, Update, Delete)** sederh
 ---
 ## 📸 Screenshot
 
+* Ini adalah index.php
 ![Tampilan Aplikasi](https://raw.githubusercontent.com/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/index-php.png)
+
+* Ini adalah tambah.php
+![Tampilan Aplikasi](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/tambah-php.png)
+
+* Ini adalah edit.php
+![Tampilan Aplikasi](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/edit-php.png)
+
+* Ini adalah setelah selesai delete..php
+![Tampilan Aplikasi](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/delete-php.png)
+
 ---
 
 ## 🛠️ Setup dan Instalasi
