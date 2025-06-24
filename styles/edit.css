@@ -1,0 +1,80 @@
+/* Body styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #eef2f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container form */
+form {
+    background-color: #ffffff;
+    padding: 24px 32px;
+    margin: 50px auto;
+    max-width: 500px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Judul halaman */
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 24px;
+}
+
+/* Label dan input */
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: bold;
+    color: #555;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+/* Tombol */
+button[type="submit"],
+button[type="button"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-right: 10px;
+    transition: background-color 0.3s ease;
+    font-size: 14px;
+}
+
+/* Tombol Update */
+button[type="submit"] {
+    background-color: #17a2b8;
+    color: white;
+}
+
+button[type="submit"]:hover {
+    background-color: #138496;
+}
+
+/* Tombol Kembali */
+button[type="button"] {
+    background-color: #6c757d;
+}
+
+button[type="button"]:hover {
+    background-color: #5a6268;
+}
+
+button[type="button"] a {
+    color: white;
+    text-decoration: none;
+    display: inline-block;
+}
