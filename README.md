@@ -41,16 +41,16 @@ Proyek ini merupakan aplikasi web **CRUD (Create, Read, Update, Delete)** sederh
 ## 📸 Screenshot
 
 * Ini adalah index.php
-![Tampilan Aplikasi](https://raw.githubusercontent.com/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/index-php.png)
+![Tampilan Aplikasi index](https://raw.githubusercontent.com/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/index-php.png)
 
 * Ini adalah tambah.php
-![Tampilan Aplikasi](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/tambah-php.png)
+![Tampilan Aplikasi tambah](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/tambah-php.png)
 
 * Ini adalah edit.php
-![Tampilan Aplikasi](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/edit-php.png)
+![Tampilan Aplikasi edit](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/edit-php.png)
 
 * Ini adalah setelah selesai delete..php
-![Tampilan Aplikasi](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/delete-php.png)
+![Tampilan Aplikasi delete](https://raw.githubusercontent.com/https:/ginganomercy/For-Images-PHP/8ea42d62903131a4c6f89f63ce7cae5860dae900/delete-php.png)
 
 ---
 
